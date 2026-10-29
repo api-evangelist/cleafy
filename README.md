@@ -64,5 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cleafy is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/cleafy
+Cleafy is a Milan‑based cybersecurity company founded in 2014, providing an AI‑powered fraud detection and prevention platform for banks and financial institutions. Its solution monitors web, mobile and API sessions in real time to detect and stop online banking fraud, account takeover, and other digital threats, serving clients across EMEA, the Americas and Asia.
+
+**Areas:** Company · Cybersecurity · Fraud Prevention · Banking · Artificial Intelligence
+
+## Cleafy on APIs.io
+
+Everything profiled for Cleafy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cleafy/](https://apis.io/providers/cleafy/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Cleafy API](https://apis.io/apis/cleafy/cleafy-api/) — API for Cleafy fraud detection platform
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cleafy Domain Security](https://apis.io/security/cleafy/cleafy-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cleafy.com)
+- [Documentation](https://www.cleafy.com/resources/documents)
+- [Support](https://support.cleafy.com)
+- [Blog](https://www.cleafy.com/news)
+- [Trust centre](https://trust.cleafy.com/)
+- [Terms of service](https://3993512.fs1.hubspotusercontent-na1.net/hubfs/3993512/CLEAFY/Downloadable%20Resources/Legal%20Documentation/Website%20Terms%20of%20Use_2024.pdf)
+- [Privacy policy](https://www.iubenda.com/privacy-policy/31282315)
+- [GitHub](https://github.com/Cleafy)
+
+## API Evangelist rating
+
+**Kin Score 15.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 28.9 |
+
+**Agent readiness 18.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.5** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cleafy/](https://apis.io/providers/cleafy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cleafy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cleafy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
